@@ -1,0 +1,18 @@
+.right{
+    float: right;
+    margin-right: 25px;
+}
+.left{
+    float: left;
+    margin-left: 25px;
+}
+body{
+    background: linear-gradient(#EA5C2B, #95CD41);
+    color: #F6D860;
+}
+#your_sketch{
+    color: #ffc2a3;
+}
+canvas{
+    border: black 2px solid;
+}
